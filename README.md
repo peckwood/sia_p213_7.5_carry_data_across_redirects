@@ -64,3 +64,5 @@ public String processRegistration(
 ```
 
 > The images used in this file are from book `Spring in Action 4th edition` by Craig Walls. It is published by Manning Publications. I don't own any copyright. 
+>
+> book's url: https://www.manning.com/books/spring-in-action-fourth-edition
